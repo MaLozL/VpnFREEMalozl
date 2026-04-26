@@ -1,0 +1,7 @@
+#profile-title: 🏳️ LTE|FULL
+#announce: Совет: Настройки>Подписки>Сортировать по пингу, а затем нажми на спидометр. Меньше ms лучше, регулярно
+#profile-update-interval: 1
+#support-url: https://t.me/xover_naabuzil_help
+#profile-web-page-url: https://t.me/xex_vpn
+
+vless://4ccff2bb-b761-40f0-95ec-a58b38862dab@5.129.223.70:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=e04qlMREgpP2TmLJ0kzf4tYjnuBMT87k0[...]
